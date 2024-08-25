@@ -172,19 +172,19 @@ export const clientsData = [
         image:client2,
         name:"Graphic Gallery",
         title:"Graphic Partner",
-        desc:"brought our vision to life with a website that beautifully showcases our design portfolio. Their attention to detail, seamless communication, and technical expertise made the collaboration effortless and the result outstanding."
+        desc:"Brought our vision to life with a website that beautifully showcases our design portfolio. Their attention to detail, seamless communication, and technical expertise made the collaboration effortless and the result outstanding."
     },
     {
         image:client1,
         name:"Dasamuga Entertainment",
         title:"Production Company",
-        desc:"exceeded our expectations by creating a visually stunning and user-friendly website that perfectly captures our brand's essence. Their professionalism and creativity made the entire process seamless and enjoyable."
+        desc:"Exceeded our expectations by creating a visually stunning and user-friendly website that perfectly captures our brand's essence. Their professionalism and creativity made the entire process seamless and enjoyable."
     },
     {
         image:client3,
         name:"Detect AI",
         title:"AI Start Up",
-        desc:"delivered a cutting-edge website that perfectly aligns with our AI-driven mission. Their innovative approach, technical prowess, and ability to capture our brand’s essence made this partnership a true success."
+        desc:"Delivered a cutting-edge website that perfectly aligns with our AI-driven mission. Their innovative approach, technical prowess, and ability to capture our brand’s essence made this partnership a true success."
     },
     {
         image:client4,
