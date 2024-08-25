@@ -223,7 +223,8 @@ export default function IndexDigitalAgency(){
                                 <p className="text-muted mb-0">Develop personalized plans using the latest IT innovations to support your business goals and drive growth.</p>
                             
                                 <div className="mt-4">
-                                    <Link to="#!"onClick={handleShow} className="btn" style={{background:"#ff6408",color:"white"}}>Want a project?</Link>
+                                    {/* <Link onClick={handleShow} className="btn" style={{background:"#ff6408",color:"white"}}>Want a project?</Link> */}
+                                    <a href="https://cal.com/fluxs" className="btn" style={{background:"#ff6408",color:"white"}} target="_blank">Want a project?</a>
                                 </div>
                             </div>
                         </div>

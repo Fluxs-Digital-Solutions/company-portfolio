@@ -1,7 +1,7 @@
-import client1 from "../assets/images/client/01.jpg"
-import client2 from "../assets/images/client/02.jpg"
-import client3 from "../assets/images/client/03.jpg"
-import client4 from "../assets/images/client/04.jpg"
+import client1 from "../assets/images/client/01.png"
+import client2 from "../assets/images/client/02.png"
+import client3 from "../assets/images/client/03.png"
+import client4 from "../assets/images/client/04.png"
 import client5 from "../assets/images/client/05.jpg"
 import client6 from "../assets/images/client/06.jpg"
 import client7 from "../assets/images/client/07.jpg"
@@ -169,41 +169,29 @@ export const accordionData2 =[
 
 export const clientsData = [
     {
-        image:client1,
-        name:"Young Bonetti",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
+        image:client2,
+        name:"Graphic Gallery",
+        title:"Graphic Partner",
+        desc:"brought our vision to life with a website that beautifully showcases our design portfolio. Their attention to detail, seamless communication, and technical expertise made the collaboration effortless and the result outstanding."
     },
     {
-        image:client2,
-        name:"Ofelia Bell",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
+        image:client1,
+        name:"Dasamuga Entertainment",
+        title:"Production Company",
+        desc:"exceeded our expectations by creating a visually stunning and user-friendly website that perfectly captures our brand's essence. Their professionalism and creativity made the entire process seamless and enjoyable."
     },
     {
         image:client3,
-        name:"Barbara Carpenter",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
+        name:"Detect AI",
+        title:"AI Start Up",
+        desc:"delivered a cutting-edge website that perfectly aligns with our AI-driven mission. Their innovative approach, technical prowess, and ability to capture our brand’s essence made this partnership a true success."
     },
     {
         image:client4,
-        name:"Jesus Day",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
-    },
-    {
-        image:client5,
-        name:"Jennifer Smith",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
-    },
-    {
-        image:client6,
-        name:"Michael Wilkes",
-        title:"Product Manager",
-        desc:"It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. One may speculate that over the course of time certain letters were added or deleted at various positions within the text."
-    },
+        name:"Piraveen Subramaniam",
+        title:"Exculutive Client",
+        desc:"Its very nice way to handile each and every project, i did 3 more web development prrojects its vaery charmfull developers and finished the work given time thanks agian for the big help"
+    }
 ]
 
 export const partnersImg = [brand1,brand2]
